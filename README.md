@@ -66,6 +66,10 @@ clarify rules. However, loud pull requests and civil arguments will not be
 tolerated.
 14. Files should `'use strict';`, which does not count as a turn.
 15. Player order is alphabetical by last name.
+16. So players can forever reference them by number, game rules should always
+be added as new numbers. If any game rule is removed, it should be crossed out
+to preserve both subsequent rule numbers and the shame of the person that wrote
+the original, now-rejected rule.
 
 ## Examples of legal turns
 
