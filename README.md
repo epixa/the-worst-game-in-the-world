@@ -10,6 +10,7 @@ the worst game in the world.
 * Celso Dantas ([celsodantas](https://github.com/celsodantas))
 * Court Ewing ([epixa](https://github.com/epixa))
 * Kurt Funai ([kurtfunai](https://github.com/kurtfunai))
+* Alex "Iceman" Pilon ([madmub](https://github.com/MadMub))
 * Pat Vice ([patvice](https://github.com/patvice))
 
 ## How to Play
