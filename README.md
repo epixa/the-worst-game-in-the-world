@@ -12,6 +12,7 @@ the worst game in the world.
 * Kurt Funai ([kurtfunai](https://github.com/kurtfunai))
 * Alex "Iceman" Pilon ([madmub](https://github.com/MadMub))
 * Pat Vice ([patvice](https://github.com/patvice))
+* Uri Gorelik ([uri](https://github.com/uri))
 
 ## How to Play
 
