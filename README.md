@@ -72,6 +72,10 @@ tolerated.
 be added as new numbers. If any game rule is removed, it should be crossed out
 to preserve both subsequent rule numbers and the shame of the person that wrote
 the original, now-rejected rule.
+17. For a turn, a single primitive literal may be replaced by a constant
+variable whose value is equal. A constant may be defined if one does not exist
+on the same turn if only if it is to replace the primitive.
+18. The value of a constant variable may be edited at the cost of a turn.
 
 ## Examples of legal turns
 
