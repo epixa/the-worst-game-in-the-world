@@ -74,17 +74,17 @@ to preserve both subsequent rule numbers and the shame of the person that wrote
 the original, now-rejected rule.
 17. It is up to the player who has the next turn to merge the commit from the
 previous turn. If that player who is merging the commit thinks that a rule has
-been broken within the commit, they may initiate a vote on wether or not the
+been broken within the commit, they may initiate a vote on whether or not the
 commit should be merged. The player that initiated the vote should state what
 rule they think has been broken, and why. The player that made the pr should make a
 case for why their commit did not break the previously stated rule (unless they
- do not want there commit to be merged :stuck_out_tongue:).
-**Voting:** The commit will be merged if there is an even or great number of
+ do not want their commit to be merged :stuck_out_tongue:).
+**Voting:** The commit will be merged if there is an even or greater number of
 votes in favour of merging the commit. If the vote fails, the "evil" commit
 is not merged, the pr is closed and the player that initiated the vote may continue
-there turn as normal.
+their turn as normal.
 **Note:** Even though it is up to the person merging the commit to initiate the
- vote, discussion are always welcome / encourage in turn pr's. Players may also
+ vote, discussion are always welcome & encourage in turn pr's. Players may also
  try to convince other players to initiate a vote.
 
 ## Examples of legal turns
