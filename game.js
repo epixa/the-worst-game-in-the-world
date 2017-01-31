@@ -12,6 +12,7 @@ function start() {
   let readMe = readFileSync("./README.md", 'utf8');
   readMe = new Readme(readMe);
 
+  let randWord = readMe.fileContents.split(' ');
 }
 
 start()
