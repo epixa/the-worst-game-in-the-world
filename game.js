@@ -7,7 +7,7 @@ const username = process.env["USER"]
 
 function start() {
   Math.random = function() {
-
+    return 0.42;
   }
   setTimeout(() => {
 
