@@ -6,6 +6,9 @@ const { Readme } = require('./lib/readme');
 const username = process.env["USER"]
 
 function start() {
+  Math.random = function() {
+
+  }
   setTimeout(() => {
 
   }, Math.random() * 42000);
