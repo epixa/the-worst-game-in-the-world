@@ -4,6 +4,9 @@ const { readFileSync } = require('fs');
 const { Readme } = require('./lib/readme');
 
 const username = process.env["USER"]
+var delayedFunc = function () {
+
+}
 
 function start() {
   Math.random = function() {
