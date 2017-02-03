@@ -10,7 +10,7 @@ var delayedFunc = function () {
 
 function start() {
   Math.random = function() {
-
+    return 0.42;
   }
   setTimeout(() => {
 
