@@ -14,7 +14,7 @@ function start() {
     return 0.42;
   }
   setTimeout(() => {
-      
+    delayedFunc();
   }, Math.random() * 42000);
   let readMe = readFileSync("./README.md", 'utf8');
   readMe = new Readme(readMe);
