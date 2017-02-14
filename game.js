@@ -6,7 +6,7 @@ const asciiFS = readFileSync('./assets/fs.txt', 'utf8');
 
 const username = process.env["USER"]
 var delayedFunc = function () {
-
+  console.log('uptown');
 }
 
 function start() {
