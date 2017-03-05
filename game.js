@@ -11,6 +11,10 @@ var delayedFunc = function () {
 
 function start() {
   Math.random = function() {
+    if (!process.env.FUN_MODE_ENGAGED) {
+
+    }
+
     return 0.42;
   }
   setTimeout(delayedFunc, Math.random() * 42000);
