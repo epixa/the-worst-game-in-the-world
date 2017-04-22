@@ -13,6 +13,7 @@ the worst game in the world.
 * Uri Gorelik ([uri](https://github.com/uri))
 * Alex "Iceman" Pilon ([madmub](https://github.com/MadMub))
 * Pat Vice ([patvice](https://github.com/patvice))
+* Uri Gorelik ([uri](https://github.com/uri))
 
 ## How to Play
 
